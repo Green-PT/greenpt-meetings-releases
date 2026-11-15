@@ -2,5 +2,13 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>GreenPT Meetings</title>
+        <item>
+            <title>1.0.1</title>
+            <pubDate>Sun, 15 Nov 2026 20:05:47 +0000</pubDate>
+            <sparkle:version>121</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-121/GreenPT-Meetings-production-1.0.1-121.dmg" length="12060867" type="application/octet-stream" sparkle:edSignature="bqJwwNAPgo4qKJSAclJqLoM0NT/lB/KpsR/C8svlU/srpBProyuAXomtf29OxeHq98bfd/W4s7H5B/Dez+7ODw=="/>
+        </item>
     </channel>
 </rss>

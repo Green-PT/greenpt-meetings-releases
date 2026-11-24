@@ -4,6 +4,14 @@
         <title>GreenPT Meetings</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Tue, 24 Nov 2026 19:55:21 +0000</pubDate>
+            <sparkle:version>138</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-138/GreenPT-Meetings-production-1.0.1-138.dmg" length="12596458" type="application/octet-stream" sparkle:edSignature="uKZunPtYPzso9eCQ93JCec/QmlybkmHcBUask/jZF9Qi7pS+8DeAGdryh8aREV0EULx7B/IidCQMKW5SlGKWBQ=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Sun, 22 Nov 2026 20:20:12 +0000</pubDate>
             <sparkle:version>134</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>

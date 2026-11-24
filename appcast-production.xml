@@ -4,6 +4,14 @@
         <title>GreenPT Meetings</title>
         <item>
             <title>1.0.1</title>
+            <pubDate>Tue, 24 Nov 2026 20:45:04 +0000</pubDate>
+            <sparkle:version>142</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-142/GreenPT-Meetings-production-1.0.1-142.dmg" length="12597995" type="application/octet-stream" sparkle:edSignature="bIyFVypgQn7KlgM5gVCDn5N8V8ObaTpBrq/LiKEoHJb7vhGGhb5y8OprYVuBIBS2ZAgXTlFext6gWCHMsWdjDw=="/>
+        </item>
+        <item>
+            <title>1.0.1</title>
             <pubDate>Tue, 24 Nov 2026 19:55:21 +0000</pubDate>
             <sparkle:version>138</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-134/GreenPT-Meetings-production-1.0.1-134.dmg" length="12585706" type="application/octet-stream" sparkle:edSignature="r/TBjFtEJ8vzG5Nemj+7/ndXTtYJj2BA30MBaxWJQm/Nzw5iErCcKlwv3360HHaN0xxzYSHhiMaVQ40mw/ASBg=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Sun, 15 Nov 2026 20:05:47 +0000</pubDate>
-            <sparkle:version>121</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-121/GreenPT-Meetings-production-1.0.1-121.dmg" length="12060867" type="application/octet-stream" sparkle:edSignature="bqJwwNAPgo4qKJSAclJqLoM0NT/lB/KpsR/C8svlU/srpBProyuAXomtf29OxeHq98bfd/W4s7H5B/Dez+7ODw=="/>
         </item>
     </channel>
 </rss>

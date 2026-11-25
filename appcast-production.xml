@@ -3,6 +3,14 @@
     <channel>
         <title>GreenPT Meetings</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Wed, 25 Nov 2026 07:20:43 +0000</pubDate>
+            <sparkle:version>160</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.1.0-160/GreenPT-Meetings-production-1.1.0-160.dmg" length="12646634" type="application/octet-stream" sparkle:edSignature="PrVrEQ8/xgdfhZJNnX6pI2rqde997gyp7Dtl0xEHgpbi3ova9onbhAO8u3cvdb8r5EFUuAEeE/wiXAz6vf0PAA=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 25 Nov 2026 05:48:56 +0000</pubDate>
             <sparkle:version>145</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-142/GreenPT-Meetings-production-1.0.1-142.dmg" length="12597995" type="application/octet-stream" sparkle:edSignature="bIyFVypgQn7KlgM5gVCDn5N8V8ObaTpBrq/LiKEoHJb7vhGGhb5y8OprYVuBIBS2ZAgXTlFext6gWCHMsWdjDw=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 24 Nov 2026 19:55:21 +0000</pubDate>
-            <sparkle:version>138</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Green-PT/greenpt-meetings-releases/releases/download/production-1.0.1-138/GreenPT-Meetings-production-1.0.1-138.dmg" length="12596458" type="application/octet-stream" sparkle:edSignature="uKZunPtYPzso9eCQ93JCec/QmlybkmHcBUask/jZF9Qi7pS+8DeAGdryh8aREV0EULx7B/IidCQMKW5SlGKWBQ=="/>
         </item>
     </channel>
 </rss>
